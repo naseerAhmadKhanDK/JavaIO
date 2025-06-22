@@ -21,7 +21,7 @@ class AddClass {
     System.out.println("please enter another number:");
     y = myObj.nextInt(); // Read user input
 
-    m = x * y;  // Calculate the sum of x + y
+    m = x * y;  // Calculate the multiplication of x + y
     System.out.println("Multiplication of  is: " + m); // Print the sum
 
     //for Division
@@ -31,7 +31,7 @@ class AddClass {
     System.out.println("please enter another number:");
     y = myObj.nextInt(); // Read user input
 
-    d = x / y;  // Calculate the sum of x + y
+    d = x / y;  // Calculate the division of x + y
     System.out.println("Division of : " + d); // Print the sum
 
 
