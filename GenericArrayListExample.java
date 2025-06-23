@@ -8,9 +8,9 @@ public class GenericArrayListExample {
        intList.add(3);
        printList(intList);
 
-      // List<Cat> catList=new ArrayList<>();
-      // catList.add(new Cat());
-     //  printList(catList);
+       //List<Cat> catList=new ArrayList<>();
+       //catList.add(new Cat());
+       //printList(catList);
 
     }
     private static void printList(List<?> myList){
